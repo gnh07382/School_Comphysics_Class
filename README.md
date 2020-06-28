@@ -1,5 +1,5 @@
-###Computational physics class homework
-**includes:
+### Computational physics class homework
+** includes:
 Numerical differentiation
 Numerical integration(rectangular, trapezoid, Simpson, Monte Carlo)
 Runge-Kutta method
